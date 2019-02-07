@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+        {% block content %}
+<h1 align=center style='font:Helvetica'>Welcome to Movie Recommender System!</h1>
+<p style=' border-style:hidden;border-radius: 5px'>Welcome to our movie recommender system. Given below is a table consisting of the 102 movies in our database - with their index, name and a small thumbnail image. To get your own recommendations, pick any five of the movies below, enter their indices and your ratings in the blanks below the database and hit Submit. Our recommendations are based on three kinds of popular recommendation algorithms. Enjoy!</p>
+
+<table border=1px align=center>
+    <tr><th>Movie Index</th>
+        <th>Movie Name</th>
+        <th>Movie Poster</th>
+    
+    </tr>
+    {% for row in movielist.itertuples() %}
+    <tr align=center>
+        
+        <td>{{ row.Index +1}}</td>
+        <td>{{ row['name'] }}</td>
+        <td><img src="{{row['poster']}}" style="width:40px;height:40px;"> </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+
+<div align=center>
+    <h2>Enter ratings</h2>
+    <form action="" method="post" novalidate>
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.movie1.label }}<br>
+            {{ form.movie1(size=32) }}<br>
+            {% for error in form.movie1.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.ratings1.label }}<br>
+            {{ form.ratings1(size=32) }}<br>
+            {% for error in form.ratings1.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.movie2.label }}<br>
+            {{ form.movie2(size=32) }}<br>
+            {% for error in form.movie2.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.ratings2.label }}<br>
+            {{ form.ratings2(size=32) }}<br>
+            {% for error in form.ratings2.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.movie3.label }}<br>
+            {{ form.movie3(size=32) }}<br>
+            {% for error in form.movie3.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.ratings3.label }}<br>
+            {{ form.ratings3(size=32) }}<br>
+            {% for error in form.ratings3.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.movie4.label }}<br>
+            {{ form.movie4(size=32) }}<br>
+            {% for error in form.movie4.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.ratings4.label }}<br>
+            {{ form.ratings4(size=32) }}<br>
+            {% for error in form.ratings4.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.movie5.label }}<br>
+            {{ form.movie5(size=32) }}<br>
+            {% for error in form.movie5.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.ratings5.label }}<br>
+            {{ form.ratings5(size=32) }}<br>
+            {% for error in form.ratings5.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>{{ form.submit() }}</p>
+    </form>
+</div>
+    {% endblock %}

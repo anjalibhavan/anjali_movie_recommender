@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+<html>
+    <h1 font='Helvetica'>The movies recommended for you are given below.</h1>
+<body >
+    <h2>According to User-User Collaborative Filtering:</h2>
+        
+    {% for i in range(0,5) %}
+   <li>{{ movies_u[i]['name'], movies_u[i]['director'],movies_u[i]['year'] }}</li>        
+   {% endfor %}
+
+<h2>According to Item-Item Collaborative Filtering:</h2>
+{% for i in range(0,5) %}
+   <li>{{ movies_i[i]['name'], movies_i[i]['director'], movies_i[i]['year'] }}</li>        
+   {% endfor %}
+
+   <h2>According to Low Rank Matrix Factorization:</h2>
+   {% for i in range(0,5) %}
+      <li>{{ movies_m[i]['name'], movies_m[i]['director'], movies_m[i]['year'] }}</li>        
+      {% endfor %}
+
+</body>
+    
+
+
+</html>
+
+
