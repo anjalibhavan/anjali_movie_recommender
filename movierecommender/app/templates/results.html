@@ -1,7 +1,8 @@
 {% extends "base.html" %}
-<html>
-    <h1 font='Helvetica'>The movies recommended for you are given below.</h1>
-<body >
+{% block content %}
+
+    <h1 style='font: Helvetica'>The movies recommended for you are given below.</h1>
+
     <h2>According to User-User Collaborative Filtering:</h2>
         
     {% for i in range(0,5) %}
@@ -18,10 +19,5 @@
       <li>{{ movies_m[i]['name'], movies_m[i]['director'], movies_m[i]['year'] }}</li>        
       {% endfor %}
 
-</body>
-    
-
-
-</html>
-
+{% endblock %}
 

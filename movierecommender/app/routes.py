@@ -74,7 +74,7 @@ def home():
         
         #Calculating matrix factors using scipy's svds algorithm. This decomposes the user-item matrix to the product of three matrices:
         #one containing user 'features', the second a diagonal matrix, and the third containing item 'features'.
-        U, sigma, V_t = svds(user_item_matrix)
+        U, sigma, V = svds(user_item_matrix)
         sigma = np.diag(sigma)
 
         #Function to compute predictions
@@ -97,9 +97,9 @@ def home():
         final_preds_mf = prediction(similarity = None,algo_type = 'matrixfac',u = U,s = sigma,v = V)
 
         #Deleting movie-ratings that user has already submitted, so they are not repeated in the recommendations.
-        np.delete(final_preds_ii,new_user_movies,axis=1)
-        np.delete(final_preds_uu,new_user_movies,axis=1)
-        np.delete(final_preds_mf,new_user_movies,axis=1)
+        final_preds_ii = np.delete(final_preds_ii,new_user_movies,axis=1)
+        final_preds_uu = np.delete(final_preds_uu,new_user_movies,axis=1)
+        final_preds_mf = np.delete(final_preds_mf,new_user_movies,axis=1)
 
         #Retrieving the indices of the top 5 recommended movies
         ind_u = np.argpartition(final_preds_uu[test_ratings.shape[0]-1,:], -5)[-5:]
@@ -116,7 +116,7 @@ def home():
         for i in ind_m:
             final_movies_m.append(movies.loc[i])
 
-        return render_template('results.html', movies_u = final_movies_u,movies_i = final_movies_i,movies_m = final_movies_u)
+        return render_template('results.html', movies_u = final_movies_u,movies_i = final_movies_i,movies_m = final_movies_m)
     return render_template('reco.html', form = form,movielist = movies)
     
     
