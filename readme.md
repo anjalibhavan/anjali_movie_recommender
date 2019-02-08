@@ -3,9 +3,9 @@
 <h2>Getting Started</h2>
 Clone the repository and navigate to its directory. Set your environment variable FLASK_APP by entering:  
 
-'''
+```
 FLASK_APP=microblog.py 
-'''
+```
 
 Type 'flask run' to run the app on localhost. Go to localhost:5000/home to access the app.
 <h3>Prerequisites</h3>
