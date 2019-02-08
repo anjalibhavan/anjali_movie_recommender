@@ -6,7 +6,6 @@ from sklearn.metrics.pairwise import pairwise_distances
 import json
 from scipy.sparse.linalg import svds
 import pandas as pd
-from flask_thumbnails import Thumbnail
 from pandas import DataFrame
 import requests
 from pymongo import MongoClient
