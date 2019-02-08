@@ -19,20 +19,21 @@ Type ```flask run``` to run the app on localhost. Go to ```localhost:5000/home``
 
 <h3>Codebase Explanation</h3>
 <ul> 
-  <li>```routes.py``` stores all the routes and views for the app (including the recommendation algorithms).</li>
-  <li> ```forms.py``` stores all the rendered forms on the app (created using WTForms)</li>
+  <li> ```routes.py```  stores all the routes and views for the app (including the recommendation algorithms).</li>
+  <li>  ```forms.py```  stores all the rendered forms on the app (created using WTForms)</li>
   <li> Templates are stored in ```templates```. Given below are the template files used to render the app.
     <ul>
-      <li> ```base.html``` contains the basic appearance/structure of the app.</li>
-      <li> ```reco.html``` contains the HTML code to render the homepage and form data. </li>
+      <li>  ```base.html``` contains the basic appearance/structure of the app.</li>
+      <li>  ```reco.html``` contains the HTML code to render the homepage and form data. </li>
       <li> ```results.html``` provides the results (recommendations) to the user.
     </ul>
   </li>
-  <li> ```env_var.py``` is used for setting the environment variable FLASK_APP (defines application instance).</li>
+  <li>  ```env_var.py``` is used for setting the environment variable FLASK_APP (defines application instance).</li>
   </ul>
   
   <h3>Requirements</h3>
   Given below are the packages used for building this project.
+  
   ```
 certifi==2018.11.29
 chardet==3.0.4
@@ -55,10 +56,9 @@ flask-wtf==0.14.2
 six==1.12.0
 urllib3==1.24.1
 Werkzeug==0.14.1
-```
 WTForms==2.2.1
 dnspython==1.16.0
-  
+  ```
   
 
 
