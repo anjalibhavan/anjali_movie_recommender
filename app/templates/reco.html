@@ -28,7 +28,7 @@
         {{ form.hidden_tag() }}
         <p>
             {{ form.movie1.label }}<br>
-            {{ form.movie1(size=32) }}<br>
+            {{ form.movie1 }}<br>
             {% for error in form.movie1.errors %}
             <span style="color: red;">[{{ error }}]</span>
             {% endfor %}
@@ -42,7 +42,7 @@
         </p>
         <p>
             {{ form.movie2.label }}<br>
-            {{ form.movie2(size=32) }}<br>
+            {{ form.movie2 }}<br>
             {% for error in form.movie2.errors %}
             <span style="color: red;">[{{ error }}]</span>
             {% endfor %}
@@ -56,7 +56,7 @@
         </p>
         <p>
             {{ form.movie3.label }}<br>
-            {{ form.movie3(size=32) }}<br>
+            {{ form.movie3 }}<br>
             {% for error in form.movie3.errors %}
             <span style="color: red;">[{{ error }}]</span>
             {% endfor %}
@@ -70,7 +70,7 @@
         </p>
         <p>
             {{ form.movie4.label }}<br>
-            {{ form.movie4(size=32) }}<br>
+            {{ form.movie4 }}<br>
             {% for error in form.movie4.errors %}
             <span style="color: red;">[{{ error }}]</span>
             {% endfor %}
@@ -84,7 +84,7 @@
         </p>
         <p>
             {{ form.movie5.label }}<br>
-            {{ form.movie5(size=32) }}<br>
+            {{ form.movie5 }}<br>
             {% for error in form.movie5.errors %}
             <span style="color: red;">[{{ error }}]</span>
             {% endfor %}

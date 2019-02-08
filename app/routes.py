@@ -50,9 +50,9 @@ def home():
         #Receiving data for new user's movies and corresponding ratings
         new_user_movies=[]
         new_user_ratings=[]
-        new_user_movies.append(form.movie1.data-1)
+        new_user_movies.append(form.movie1.data)
         new_user_ratings.append(form.ratings1.data)
-        new_user_movies.extend([form.movie2.data-1,form.movie3.data-1,form.movie4.data-1,form.movie5.data-1])
+        new_user_movies.extend([form.movie2.data,form.movie3.data,form.movie4.data,form.movie5.data])
         new_user_ratings.extend([form.ratings2.data,form.ratings3.data,form.ratings4.data,form.ratings5.data])
 
         new_user_id = str(n_users + 1)
