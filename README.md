@@ -1,13 +1,13 @@
 <h1>Welcome to Movie Recommender App!</h1>
 <p>This is a simple Flask app to get movie recommendations based on three popular recommendation algorithms. The app deployed on heroku can be viewed <a href='http://anjali-movie-recommender.herokuapp.com/home'>here.</a></p>
 <h2>Getting Started</h2>
-Clone the repository and navigate to its directory. Set your environment variable ```FLASK_APP``` by entering:  
+Clone the repository and navigate to its directory. Set your environment variable `FLASK_APP` by entering:  
 
 ```
 FLASK_APP=env_var.py 
 ```
 
-Type ```flask run``` to run the app on localhost. Go to ```localhost:5000/home``` to access the app.
+Type `flask run` to run the app on localhost. Go to `localhost:5000/home` to access the app.
 <h3>Prerequisites</h3>
 <p>Python and pip are the initial requirements. The others are given in requirements.txt and can be installed once you clone the repository.</p>
 <h3>Steps in creation of this project:</h3>
@@ -19,16 +19,21 @@ Type ```flask run``` to run the app on localhost. Go to ```localhost:5000/home``
 
 <h3>Codebase Explanation</h3>
 <ul> 
-  <li> ```routes.py```  stores all the routes and views for the app (including the recommendation algorithms).</li>
-  <li>  ```forms.py```  stores all the rendered forms on the app (created using WTForms)</li>
-  <li> Templates are stored in ```templates```. Given below are the template files used to render the app.
+  <li> routes.py file stores all the routes and views for the app (including the recommendation algorithms).</li>
+  <li> forms.py stores all the rendered forms on the app (created using WTForms)</li>
+  <li> Templates are stored in Templates folder. Given below are the template files used to render the app.
     <ul>
-      <li>  ```base.html``` contains the basic appearance/structure of the app.</li>
-      <li>  ```reco.html``` contains the HTML code to render the homepage and form data. </li>
-      <li> ```results.html``` provides the results (recommendations) to the user.
+      <li>  base.html contains the basic appearance/structure of the app.</li>
+      <li>  reco.html contains the HTML code to render the homepage and form data. </li>
+      <li> results.html provides the results (recommendations) to the user.
     </ul>
   </li>
-  <li>  ```env_var.py``` is used for setting the environment variable FLASK_APP (defines application instance).</li>
+  <li>  env_var.py is used for setting the environment variable FLASK_APP (defines application instance).</li>
+  <li>Some miscellaneous files (not part of the app, but part of the project in various stages) are stored in the Miscellaneous folder.
+    <ul>
+      <li>webparser.py contains the code that was used to parse IMDB for movie information.</li>
+      <li>algorithms.py contains the recommendation algorithms, data processing part etc. that was used for the app (this file was not used directly, but copied to the app views).</li>
+        
   </ul>
   
   <h3>Requirements</h3>
