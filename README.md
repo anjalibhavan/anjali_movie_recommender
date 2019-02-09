@@ -19,16 +19,21 @@ Type `flask run` to run the app on localhost. Go to `localhost:5000/home` to acc
 
 <h3>Codebase Explanation</h3>
 <ul> 
-  <li> `routes.py`  stores all the routes and views for the app (including the recommendation algorithms).</li>
-  <li>  `forms.py`  stores all the rendered forms on the app (created using WTForms)</li>
-  <li> Templates are stored in `templates`. Given below are the template files used to render the app.
+  <li> routes.py file stores all the routes and views for the app (including the recommendation algorithms).</li>
+  <li> forms.py stores all the rendered forms on the app (created using WTForms)</li>
+  <li> Templates are stored in Templates folder. Given below are the template files used to render the app.
     <ul>
-      <li>  `base.html` contains the basic appearance/structure of the app.</li>
-      <li>  `reco.html` contains the HTML code to render the homepage and form data. </li>
-      <li> `results.html` provides the results (recommendations) to the user.
+      <li>  base.html contains the basic appearance/structure of the app.</li>
+      <li>  reco.html contains the HTML code to render the homepage and form data. </li>
+      <li> results.html provides the results (recommendations) to the user.
     </ul>
   </li>
-  <li>  `env_var.py` is used for setting the environment variable FLASK_APP (defines application instance).</li>
+  <li>  env_var.py is used for setting the environment variable FLASK_APP (defines application instance).</li>
+  <li>Some miscellaneous files (not part of the app, but part of the project in various stages) are stored in the Miscellaneous folder.
+    <ul>
+      <li>webparser.py contains the code that was used to parse IMDB for movie information.</li>
+      <li>algorithms.py contains the recommendation algorithms, data processing part etc. that was used for the app (this file was not used directly, but copied to the app views).</li>
+        
   </ul>
   
   <h3>Requirements</h3>
