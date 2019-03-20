@@ -1,0 +1,1960 @@
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e19"
+	},
+	"user_id": 1,
+	"movie_id": 1,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e1a"
+	},
+	"user_id": 1,
+	"movie_id": 46,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e1b"
+	},
+	"user_id": 1,
+	"movie_id": 21,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e1c"
+	},
+	"user_id": 1,
+	"movie_id": 75,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e1d"
+	},
+	"user_id": 1,
+	"movie_id": 70,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e1e"
+	},
+	"user_id": 1,
+	"movie_id": 73,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e1f"
+	},
+	"user_id": 1,
+	"movie_id": 96,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e20"
+	},
+	"user_id": 1,
+	"movie_id": 10,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e21"
+	},
+	"user_id": 1,
+	"movie_id": 97,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e22"
+	},
+	"user_id": 1,
+	"movie_id": 60,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e23"
+	},
+	"user_id": 1,
+	"movie_id": 63,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e24"
+	},
+	"user_id": 1,
+	"movie_id": 91,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e25"
+	},
+	"user_id": 1,
+	"movie_id": 1,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e26"
+	},
+	"user_id": 1,
+	"movie_id": 33,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e27"
+	},
+	"user_id": 1,
+	"movie_id": 57,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e28"
+	},
+	"user_id": 1,
+	"movie_id": 19,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e29"
+	},
+	"user_id": 2,
+	"movie_id": 27,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e2a"
+	},
+	"user_id": 2,
+	"movie_id": 101,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e2b"
+	},
+	"user_id": 2,
+	"movie_id": 39,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e2c"
+	},
+	"user_id": 2,
+	"movie_id": 5,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e2d"
+	},
+	"user_id": 2,
+	"movie_id": 0,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e2e"
+	},
+	"user_id": 2,
+	"movie_id": 93,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e2f"
+	},
+	"user_id": 2,
+	"movie_id": 80,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e30"
+	},
+	"user_id": 2,
+	"movie_id": 84,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e31"
+	},
+	"user_id": 2,
+	"movie_id": 67,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e32"
+	},
+	"user_id": 2,
+	"movie_id": 91,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e33"
+	},
+	"user_id": 2,
+	"movie_id": 15,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e34"
+	},
+	"user_id": 2,
+	"movie_id": 7,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e35"
+	},
+	"user_id": 2,
+	"movie_id": 81,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e36"
+	},
+	"user_id": 2,
+	"movie_id": 101,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e37"
+	},
+	"user_id": 2,
+	"movie_id": 65,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e38"
+	},
+	"user_id": 2,
+	"movie_id": 94,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e39"
+	},
+	"user_id": 2,
+	"movie_id": 33,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e3a"
+	},
+	"user_id": 2,
+	"movie_id": 42,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e3b"
+	},
+	"user_id": 2,
+	"movie_id": 25,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e3c"
+	},
+	"user_id": 2,
+	"movie_id": 82,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e3d"
+	},
+	"user_id": 3,
+	"movie_id": 4,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e3e"
+	},
+	"user_id": 3,
+	"movie_id": 7,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e3f"
+	},
+	"user_id": 3,
+	"movie_id": 41,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e40"
+	},
+	"user_id": 3,
+	"movie_id": 38,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e41"
+	},
+	"user_id": 3,
+	"movie_id": 21,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e42"
+	},
+	"user_id": 3,
+	"movie_id": 76,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e43"
+	},
+	"user_id": 3,
+	"movie_id": 19,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e44"
+	},
+	"user_id": 3,
+	"movie_id": 28,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e45"
+	},
+	"user_id": 3,
+	"movie_id": 17,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e46"
+	},
+	"user_id": 3,
+	"movie_id": 18,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e47"
+	},
+	"user_id": 3,
+	"movie_id": 11,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e48"
+	},
+	"user_id": 3,
+	"movie_id": 52,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e49"
+	},
+	"user_id": 3,
+	"movie_id": 93,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e4a"
+	},
+	"user_id": 3,
+	"movie_id": 30,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e4b"
+	},
+	"user_id": 3,
+	"movie_id": 46,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e4c"
+	},
+	"user_id": 3,
+	"movie_id": 7,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e4d"
+	},
+	"user_id": 3,
+	"movie_id": 86,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e4e"
+	},
+	"user_id": 4,
+	"movie_id": 68,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e4f"
+	},
+	"user_id": 4,
+	"movie_id": 66,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e50"
+	},
+	"user_id": 4,
+	"movie_id": 100,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e51"
+	},
+	"user_id": 4,
+	"movie_id": 86,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e52"
+	},
+	"user_id": 4,
+	"movie_id": 89,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e53"
+	},
+	"user_id": 4,
+	"movie_id": 35,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e54"
+	},
+	"user_id": 4,
+	"movie_id": 19,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e55"
+	},
+	"user_id": 4,
+	"movie_id": 55,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e56"
+	},
+	"user_id": 4,
+	"movie_id": 54,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e57"
+	},
+	"user_id": 4,
+	"movie_id": 49,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e58"
+	},
+	"user_id": 4,
+	"movie_id": 14,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e59"
+	},
+	"user_id": 3,
+	"movie_id": 46,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e5a"
+	},
+	"user_id": 4,
+	"movie_id": 99,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e5b"
+	},
+	"user_id": 4,
+	"movie_id": 86,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e5c"
+	},
+	"user_id": 4,
+	"movie_id": 50,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e5d"
+	},
+	"user_id": 4,
+	"movie_id": 17,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e5e"
+	},
+	"user_id": 4,
+	"movie_id": 49,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e5f"
+	},
+	"user_id": 4,
+	"movie_id": 10,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e60"
+	},
+	"user_id": 4,
+	"movie_id": 25,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e61"
+	},
+	"user_id": 3,
+	"movie_id": 65,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e62"
+	},
+	"user_id": 3,
+	"movie_id": 14,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e63"
+	},
+	"user_id": 4,
+	"movie_id": 0,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e64"
+	},
+	"user_id": 4,
+	"movie_id": 1,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e65"
+	},
+	"user_id": 5,
+	"movie_id": 23,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e66"
+	},
+	"user_id": 5,
+	"movie_id": 57,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e67"
+	},
+	"user_id": 5,
+	"movie_id": 31,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e68"
+	},
+	"user_id": 5,
+	"movie_id": 58,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e69"
+	},
+	"user_id": 5,
+	"movie_id": 77,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e6a"
+	},
+	"user_id": 5,
+	"movie_id": 12,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e6b"
+	},
+	"user_id": 5,
+	"movie_id": 60,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e6c"
+	},
+	"user_id": 5,
+	"movie_id": 7,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e6d"
+	},
+	"user_id": 5,
+	"movie_id": 41,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e6e"
+	},
+	"user_id": 5,
+	"movie_id": 91,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e6f"
+	},
+	"user_id": 5,
+	"movie_id": 47,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e70"
+	},
+	"user_id": 5,
+	"movie_id": 101,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e71"
+	},
+	"user_id": 5,
+	"movie_id": 98,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e72"
+	},
+	"user_id": 5,
+	"movie_id": 51,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e73"
+	},
+	"user_id": 5,
+	"movie_id": 47,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e74"
+	},
+	"user_id": 5,
+	"movie_id": 25,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e75"
+	},
+	"user_id": 5,
+	"movie_id": 41,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e76"
+	},
+	"user_id": 5,
+	"movie_id": 96,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e77"
+	},
+	"user_id": 5,
+	"movie_id": 45,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e78"
+	},
+	"user_id": 5,
+	"movie_id": 70,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e79"
+	},
+	"user_id": 6,
+	"movie_id": 44,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e7a"
+	},
+	"user_id": 6,
+	"movie_id": 26,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e7b"
+	},
+	"user_id": 6,
+	"movie_id": 52,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e7c"
+	},
+	"user_id": 6,
+	"movie_id": 14,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e7d"
+	},
+	"user_id": 6,
+	"movie_id": 101,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e7e"
+	},
+	"user_id": 6,
+	"movie_id": 46,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e7f"
+	},
+	"user_id": 6,
+	"movie_id": 5,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e80"
+	},
+	"user_id": 6,
+	"movie_id": 27,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e81"
+	},
+	"user_id": 6,
+	"movie_id": 79,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e82"
+	},
+	"user_id": 6,
+	"movie_id": 49,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e83"
+	},
+	"user_id": 6,
+	"movie_id": 75,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e84"
+	},
+	"user_id": 6,
+	"movie_id": 27,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e85"
+	},
+	"user_id": 6,
+	"movie_id": 15,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e86"
+	},
+	"user_id": 6,
+	"movie_id": 11,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e87"
+	},
+	"user_id": 6,
+	"movie_id": 82,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e88"
+	},
+	"user_id": 6,
+	"movie_id": 77,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e89"
+	},
+	"user_id": 6,
+	"movie_id": 59,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e8a"
+	},
+	"user_id": 6,
+	"movie_id": 46,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e8b"
+	},
+	"user_id": 6,
+	"movie_id": 38,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e8c"
+	},
+	"user_id": 7,
+	"movie_id": 3,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e8d"
+	},
+	"user_id": 6,
+	"movie_id": 96,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e8e"
+	},
+	"user_id": 7,
+	"movie_id": 4,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e8f"
+	},
+	"user_id": 7,
+	"movie_id": 1,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e90"
+	},
+	"user_id": 7,
+	"movie_id": 2,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e91"
+	},
+	"user_id": 7,
+	"movie_id": 66,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e92"
+	},
+	"user_id": 8,
+	"movie_id": 3,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e93"
+	},
+	"user_id": 8,
+	"movie_id": 4,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e94"
+	},
+	"user_id": 8,
+	"movie_id": 55,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e95"
+	},
+	"user_id": 8,
+	"movie_id": 29,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e96"
+	},
+	"user_id": 8,
+	"movie_id": 90,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e99"
+	},
+	"user_id": 9,
+	"movie_id": 23,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e9a"
+	},
+	"user_id": 10,
+	"movie_id": 89,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e9b"
+	},
+	"user_id": 9,
+	"movie_id": 100,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e9c"
+	},
+	"user_id": 9,
+	"movie_id": 78,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57e9f"
+	},
+	"user_id": 10,
+	"movie_id": 39,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c59945ca2476e2deec57ea0"
+	},
+	"user_id": 10,
+	"movie_id": 20,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c59c5041c9d440000d77d66"
+	},
+	"user_id": "1",
+	"movie_id": "67",
+	"ratings": "1"
+}
+{
+	"_id": {
+		"$oid": "5c5c8f221c9d4400007df665"
+	},
+	"user_id": "10",
+	"movie_id": "101",
+	"ratings": "5"
+}
+{
+	"_id": {
+		"$oid": "5c5c8f3f1c9d4400007df666"
+	},
+	"user_id": "10",
+	"movie_id": "23",
+	"ratings": "1"
+}
+{
+	"_id": {
+		"$oid": "5c5d3a896d1698000bba8e75"
+	},
+	"user_id": "11",
+	"movie_id": 0,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3a896d1698000bba8e76"
+	},
+	"user_id": "11",
+	"movie_id": 1,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3a896d1698000bba8e77"
+	},
+	"user_id": "11",
+	"movie_id": 2,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3a896d1698000bba8e78"
+	},
+	"user_id": "11",
+	"movie_id": 3,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3a896d1698000bba8e79"
+	},
+	"user_id": "11",
+	"movie_id": 4,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3c866d1698000acc1e43"
+	},
+	"user_id": "12",
+	"movie_id": 2,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5d3c866d1698000acc1e44"
+	},
+	"user_id": "12",
+	"movie_id": 5,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5d3c866d1698000acc1e45"
+	},
+	"user_id": "12",
+	"movie_id": 13,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3c866d1698000acc1e46"
+	},
+	"user_id": "12",
+	"movie_id": 28,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5d3c866d1698000acc1e47"
+	},
+	"user_id": "12",
+	"movie_id": 31,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5d3ec22076bd000b1e3d53"
+	},
+	"user_id": "13",
+	"movie_id": 0,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5d3ec22076bd000b1e3d54"
+	},
+	"user_id": "13",
+	"movie_id": 3,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3ec22076bd000b1e3d55"
+	},
+	"user_id": "13",
+	"movie_id": 1,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5d3ec22076bd000b1e3d56"
+	},
+	"user_id": "13",
+	"movie_id": 10,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c5d3ec22076bd000b1e3d57"
+	},
+	"user_id": "13",
+	"movie_id": 16,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5db36b0547de000a348ab2"
+	},
+	"user_id": "14",
+	"movie_id": 0,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db36b0547de000a348ab3"
+	},
+	"user_id": "14",
+	"movie_id": 5,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db36b0547de000a348ab4"
+	},
+	"user_id": "14",
+	"movie_id": 21,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db36b0547de000a348ab5"
+	},
+	"user_id": "14",
+	"movie_id": 58,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db36b0547de000a348ab6"
+	},
+	"user_id": "14",
+	"movie_id": 84,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5db4880547de000a348ab8"
+	},
+	"user_id": "15",
+	"movie_id": 31,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db4880547de000a348ab9"
+	},
+	"user_id": "15",
+	"movie_id": 12,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5db4880547de000a348aba"
+	},
+	"user_id": "15",
+	"movie_id": 2,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5db4880547de000a348abb"
+	},
+	"user_id": "15",
+	"movie_id": 37,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db4880547de000a348abc"
+	},
+	"user_id": "15",
+	"movie_id": 39,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db78423e5a1000b256b3b"
+	},
+	"user_id": "16",
+	"movie_id": 76,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5db78423e5a1000b256b3c"
+	},
+	"user_id": "16",
+	"movie_id": 21,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5db78423e5a1000b256b3d"
+	},
+	"user_id": "16",
+	"movie_id": 12,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5db78423e5a1000b256b3e"
+	},
+	"user_id": "16",
+	"movie_id": 30,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5db78423e5a1000b256b3f"
+	},
+	"user_id": "16",
+	"movie_id": 98,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5dd53f7cbf680df8c17924"
+	},
+	"user_id": "17",
+	"movie_id": 11,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5dd53f7cbf680df8c17925"
+	},
+	"user_id": "17",
+	"movie_id": 15,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5dd53f7cbf680df8c17926"
+	},
+	"user_id": "17",
+	"movie_id": 13,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5dd53f7cbf680df8c17927"
+	},
+	"user_id": "17",
+	"movie_id": 17,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5dd53f7cbf680df8c17928"
+	},
+	"user_id": "17",
+	"movie_id": 19,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5dd5767cbf680df8c1792b"
+	},
+	"user_id": "18",
+	"movie_id": 0,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5dd5767cbf680df8c1792c"
+	},
+	"user_id": "18",
+	"movie_id": 61,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c5dd5767cbf680df8c1792d"
+	},
+	"user_id": "18",
+	"movie_id": 81,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5dd5767cbf680df8c1792e"
+	},
+	"user_id": "18",
+	"movie_id": 17,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5dd5767cbf680df8c1792f"
+	},
+	"user_id": "18",
+	"movie_id": 86,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5dda5ebcfd35000a78c738"
+	},
+	"user_id": "19",
+	"movie_id": 2,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5dda5ebcfd35000a78c739"
+	},
+	"user_id": "19",
+	"movie_id": 69,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5dda5ebcfd35000a78c73a"
+	},
+	"user_id": "19",
+	"movie_id": 41,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5dda5ebcfd35000a78c73b"
+	},
+	"user_id": "19",
+	"movie_id": 16,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5dda5ebcfd35000a78c73c"
+	},
+	"user_id": "19",
+	"movie_id": 74,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5e5df09e905c000ab23d8a"
+	},
+	"user_id": "20",
+	"movie_id": 9,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e5df09e905c000ab23d8b"
+	},
+	"user_id": "20",
+	"movie_id": 5,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e5df09e905c000ab23d8c"
+	},
+	"user_id": "20",
+	"movie_id": 28,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e5df09e905c000ab23d8d"
+	},
+	"user_id": "20",
+	"movie_id": 57,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e5df09e905c000ab23d8e"
+	},
+	"user_id": "20",
+	"movie_id": 74,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e63879e905c000ab23d91"
+	},
+	"user_id": "21",
+	"movie_id": 65,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e63879e905c000ab23d92"
+	},
+	"user_id": "21",
+	"movie_id": 90,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e63879e905c000ab23d93"
+	},
+	"user_id": "21",
+	"movie_id": 95,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e63879e905c000ab23d94"
+	},
+	"user_id": "21",
+	"movie_id": 92,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5e63879e905c000ab23d95"
+	},
+	"user_id": "21",
+	"movie_id": 94,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e69a83b97d0000bd8aec8"
+	},
+	"user_id": "22",
+	"movie_id": 5,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e69a83b97d0000bd8aec9"
+	},
+	"user_id": "22",
+	"movie_id": 17,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5e69a83b97d0000bd8aeca"
+	},
+	"user_id": "22",
+	"movie_id": 2,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e69a83b97d0000bd8aecb"
+	},
+	"user_id": "22",
+	"movie_id": 18,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e69a83b97d0000bd8aecc"
+	},
+	"user_id": "22",
+	"movie_id": 36,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e70e23b97d0000bd8aed1"
+	},
+	"user_id": "23",
+	"movie_id": 9,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e70e23b97d0000bd8aed2"
+	},
+	"user_id": "23",
+	"movie_id": 10,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e70e23b97d0000bd8aed3"
+	},
+	"user_id": "23",
+	"movie_id": 27,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e70e23b97d0000bd8aed4"
+	},
+	"user_id": "23",
+	"movie_id": 39,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e70e23b97d0000bd8aed5"
+	},
+	"user_id": "23",
+	"movie_id": 36,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5e79bcab1483000b0dea24"
+	},
+	"user_id": "24",
+	"movie_id": 74,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e79bcab1483000b0dea25"
+	},
+	"user_id": "24",
+	"movie_id": 37,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e79bcab1483000b0dea26"
+	},
+	"user_id": "24",
+	"movie_id": 10,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5e79bcab1483000b0dea27"
+	},
+	"user_id": "24",
+	"movie_id": 5,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5e79bcab1483000b0dea28"
+	},
+	"user_id": "24",
+	"movie_id": 9,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5ee8ff2d69ba000a1b6783"
+	},
+	"user_id": "25",
+	"movie_id": 32,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5ee8ff2d69ba000a1b6784"
+	},
+	"user_id": "25",
+	"movie_id": 45,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5ee8ff2d69ba000a1b6785"
+	},
+	"user_id": "25",
+	"movie_id": 51,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5ee8ff2d69ba000a1b6786"
+	},
+	"user_id": "25",
+	"movie_id": 74,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5ee8ff2d69ba000a1b6787"
+	},
+	"user_id": "25",
+	"movie_id": 95,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c5eeded2d69ba000a1b678a"
+	},
+	"user_id": "26",
+	"movie_id": 0,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5eeded2d69ba000a1b678b"
+	},
+	"user_id": "26",
+	"movie_id": 5,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5eeded2d69ba000a1b678c"
+	},
+	"user_id": "26",
+	"movie_id": 12,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5eeded2d69ba000a1b678d"
+	},
+	"user_id": "26",
+	"movie_id": 64,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5eeded2d69ba000a1b678e"
+	},
+	"user_id": "26",
+	"movie_id": 35,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5ef2682d69ba000bd6e9ab"
+	},
+	"user_id": "27",
+	"movie_id": 0,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c5ef2682d69ba000bd6e9ac"
+	},
+	"user_id": "27",
+	"movie_id": 9,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5ef2682d69ba000bd6e9ad"
+	},
+	"user_id": "27",
+	"movie_id": 2,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5ef2682d69ba000bd6e9ae"
+	},
+	"user_id": "27",
+	"movie_id": 33,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c5ef2682d69ba000bd6e9af"
+	},
+	"user_id": "27",
+	"movie_id": 88,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5f0aa95172f9000b2403f2"
+	},
+	"user_id": "28",
+	"movie_id": 9,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5f0aa95172f9000b2403f3"
+	},
+	"user_id": "28",
+	"movie_id": 10,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5f0aa95172f9000b2403f4"
+	},
+	"user_id": "28",
+	"movie_id": 26,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5f0aa95172f9000b2403f5"
+	},
+	"user_id": "28",
+	"movie_id": 39,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5f0aa95172f9000b2403f6"
+	},
+	"user_id": "28",
+	"movie_id": 67,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c5f1ad5adaf1c000b3ab0f2"
+	},
+	"user_id": "29",
+	"movie_id": 0,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c5f1ad5adaf1c000b3ab0f3"
+	},
+	"user_id": "29",
+	"movie_id": 9,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c5f1ad5adaf1c000b3ab0f4"
+	},
+	"user_id": "29",
+	"movie_id": 13,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c5f1ad5adaf1c000b3ab0f5"
+	},
+	"user_id": "29",
+	"movie_id": 0,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c5f1ad5adaf1c000b3ab0f6"
+	},
+	"user_id": "29",
+	"movie_id": 0,
+	"ratings": 1
+}
+{
+	"_id": {
+		"$oid": "5c618dab83387d000b25673f"
+	},
+	"user_id": "30",
+	"movie_id": 5,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c618dab83387d000b256740"
+	},
+	"user_id": "30",
+	"movie_id": 7,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c618dab83387d000b256741"
+	},
+	"user_id": "30",
+	"movie_id": 5,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c618dab83387d000b256742"
+	},
+	"user_id": "30",
+	"movie_id": 6,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c618dab83387d000b256743"
+	},
+	"user_id": "30",
+	"movie_id": 91,
+	"ratings": 2
+}
+{
+	"_id": {
+		"$oid": "5c61b23a67bab6000adc05d3"
+	},
+	"user_id": "31",
+	"movie_id": 0,
+	"ratings": 3
+}
+{
+	"_id": {
+		"$oid": "5c61b23a67bab6000adc05d4"
+	},
+	"user_id": "31",
+	"movie_id": 5,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c61b23a67bab6000adc05d5"
+	},
+	"user_id": "31",
+	"movie_id": 10,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c61b23a67bab6000adc05d6"
+	},
+	"user_id": "31",
+	"movie_id": 14,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c61b23a67bab6000adc05d7"
+	},
+	"user_id": "31",
+	"movie_id": 36,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c684c45f82bc5000bf1717d"
+	},
+	"user_id": "32",
+	"movie_id": 100,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c684c45f82bc5000bf1717e"
+	},
+	"user_id": "32",
+	"movie_id": 33,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c684c45f82bc5000bf1717f"
+	},
+	"user_id": "32",
+	"movie_id": 10,
+	"ratings": 5
+}
+{
+	"_id": {
+		"$oid": "5c684c45f82bc5000bf17180"
+	},
+	"user_id": "32",
+	"movie_id": 27,
+	"ratings": 4
+}
+{
+	"_id": {
+		"$oid": "5c684c45f82bc5000bf17181"
+	},
+	"user_id": "32",
+	"movie_id": 84,
+	"ratings": 4
+}

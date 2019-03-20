@@ -1,0 +1,918 @@
+{
+	"_id": {
+		"$oid": "5c57f4ec7cbf68236ca001ed"
+	},
+	"name": "Home Alone",
+	"year": "1990",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,672,1000_AL_.jpg",
+	"director": "Chris Columbus"
+}
+{
+	"_id": {
+		"$oid": "5c57f57a7cbf68260cc0df23"
+	},
+	"name": "Breathe In",
+	"year": "2013",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTgwNzY4MDYyN15BMl5BanBnXkFtZTgwODExMjgwMTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+	"director": "Drake Doremus"
+}
+{
+	"_id": {
+		"$oid": "5c57f5d57cbf682688bfae23"
+	},
+	"name": "Finding Nemo",
+	"year": "2003",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+	"director": "Andrew Stanton"
+}
+{
+	"_id": {
+		"$oid": "5c57f9d87cbf6803501a878c"
+	},
+	"name": "Room",
+	"year": "2015",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+	"director": "Lenny Abrahamson"
+}
+{
+	"_id": {
+		"$oid": "5c580c887cbf68012479cbe4"
+	},
+	"name": "Still Alice",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjIzNzAxNjY1Nl5BMl5BanBnXkFtZTgwMDg4ODQxMzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+	"director": "Richard Glatzer"
+}
+{
+	"_id": {
+		"$oid": "5c580cc07cbf68259c629154"
+	},
+	"name": "Gone Girl",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+	"director": "David Fincher"
+}
+{
+	"_id": {
+		"$oid": "5c580f2b7cbf682a841b96c8"
+	},
+	"name": "Godzilla",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+	"director": "Gareth Edwards"
+}
+{
+	"_id": {
+		"$oid": "5c580f5f7cbf68289c942dc5"
+	},
+	"name": "The Reader",
+	"year": "2008",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+	"director": "Stephen Daldry"
+}
+{
+	"_id": {
+		"$oid": "5c580f8a7cbf6829e8248532"
+	},
+	"name": "Anna Karenina",
+	"year": "2012",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDgxNDg0NV5BMl5BanBnXkFtZTcwMjE4MzkwOA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+	"director": "Joe Wright"
+}
+{
+	"_id": {
+		"$oid": "5c5815207cbf6828105e6aff"
+	},
+	"name": "The Shawshank Redemption",
+	"year": "1994",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+	"director": "Frank Darabont"
+}
+{
+	"_id": {
+		"$oid": "5c58410c7cbf6823484ada7c"
+	},
+	"name": "Fight Club",
+	"year": "1999",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "David Fincher"
+}
+{
+	"_id": {
+		"$oid": "5c5841bb7cbf6809a0b47f4a"
+	},
+	"name": "The Prodigy",
+	"year": "2005",
+	"poster": "https://ia.media-imdb.com/images/M/MV5BMTY1MjI4MDkxOF5BMl5BanBnXkFtZTcwMjQwNDE0MQ@@._V1_SX300.jpg",
+	"director": "William Kaufman"
+}
+{
+	"_id": {
+		"$oid": "5c5841d57cbf680834d33c7c"
+	},
+	"name": "The Conjuring",
+	"year": "2013",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg",
+	"director": "James Wan"
+}
+{
+	"_id": {
+		"$oid": "5c5841f17cbf680dcc2fcd19"
+	},
+	"name": "The Vow",
+	"year": "2012",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjE1OTU5MjU0N15BMl5BanBnXkFtZTcwMzI3OTU5Ng@@._V1_SX300.jpg",
+	"director": "Michael Sucsy"
+}
+{
+	"_id": {
+		"$oid": "5c5842097cbf681de8847775"
+	},
+	"name": "The Departed",
+	"year": "2006",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+	"director": "Martin Scorsese"
+}
+{
+	"_id": {
+		"$oid": "5c5842367cbf6825689184c5"
+	},
+	"name": "Casablanca",
+	"year": "1942",
+	"poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+	"director": "Michael Curtiz"
+}
+{
+	"_id": {
+		"$oid": "5c5842607cbf6815d430fdc4"
+	},
+	"name": "Atonement",
+	"year": "2007",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMGRiYjE0YzItMzk3Zi00ZmYwLWJjNDktYTAwYjIwMjIxYzM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+	"director": "Joe Wright"
+}
+{
+	"_id": {
+		"$oid": "5c5842ad7cbf6811f896a03c"
+	},
+	"name": "Aquaman",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SX300.jpg",
+	"director": "James Wan"
+}
+{
+	"_id": {
+		"$oid": "5c5842e67cbf682754be3aa7"
+	},
+	"name": "Toy Story",
+	"year": "1995",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+	"director": "John Lasseter"
+}
+{
+	"_id": {
+		"$oid": "5c5843027cbf6822a014355f"
+	},
+	"name": "Notorious",
+	"year": "1946",
+	"poster": "https://m.media-amazon.com/images/M/MV5BYTc1NGViOTMtNjZhNS00OGY2LWI4MmItOWQwNTY4MDMzNWI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+	"director": "Alfred Hitchcock"
+}
+{
+	"_id": {
+		"$oid": "5c5843167cbf6818fc279d15"
+	},
+	"name": "Spellbound",
+	"year": "1945",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTM2NDI5Nzg5Nl5BMl5BanBnXkFtZTcwNDk3NzI0NA@@._V1_SX300.jpg",
+	"director": "Alfred Hitchcock"
+}
+{
+	"_id": {
+		"$oid": "5c5843317cbf6814e419b56f"
+	},
+	"name": "Gone with the Wind",
+	"year": "1939",
+	"poster": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Victor Fleming, George Cukor, Sam Wood"
+}
+{
+	"_id": {
+		"$oid": "5c58434e7cbf681ab0184232"
+	},
+	"name": "The Parent Trap",
+	"year": "1998",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNWYyMzJhNzEtMzFkNC00M2U0LTkwMWYtYWVkN2Y2MGI5ODZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+	"director": "Nancy Meyers"
+}
+{
+	"_id": {
+		"$oid": "5c58436a7cbf6824c8bb97d9"
+	},
+	"name": "Spectre",
+	"year": "2015",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Sam Mendes"
+}
+{
+	"_id": {
+		"$oid": "5c58437f7cbf6814940b28ff"
+	},
+	"name": "Psycho",
+	"year": "1960",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Alfred Hitchcock"
+}
+{
+	"_id": {
+		"$oid": "5c5843d87cbf6806485c839b"
+	},
+	"name": "The Guns of Navarone",
+	"year": "1961",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMDIyNDA3NGMtNWFmMi00NDRlLWEzMTEtOGIxMDZhZmRmYjJlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+	"director": "J. Lee Thompson"
+}
+{
+	"_id": {
+		"$oid": "5c5843f37cbf680bfcbeb1a3"
+	},
+	"name": "Spotlight",
+	"year": "2015",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
+	"director": "Tom McCarthy"
+}
+{
+	"_id": {
+		"$oid": "5c58443c7cbf68082c885671"
+	},
+	"name": "The Godfather",
+	"year": "1972",
+	"poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Francis Ford Coppola"
+}
+{
+	"_id": {
+		"$oid": "5c5844577cbf6825949e6f8f"
+	},
+	"name": "Before Sunrise",
+	"year": "1995",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+	"director": "Richard Linklater"
+}
+{
+	"_id": {
+		"$oid": "5c58446e7cbf6807245bb2af"
+	},
+	"name": "Before Sunset",
+	"year": "2004",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SX300.jpg",
+	"director": "Richard Linklater"
+}
+{
+	"_id": {
+		"$oid": "5c5844837cbf6823d0f1360d"
+	},
+	"name": "Before Midnight",
+	"year": "2013",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@._V1_SX300.jpg",
+	"director": "Richard Linklater"
+}
+{
+	"_id": {
+		"$oid": "5c5844ac7cbf6827602418da"
+	},
+	"name": "The Social Network",
+	"year": "2010",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+	"director": "David Fincher"
+}
+{
+	"_id": {
+		"$oid": "5c5844e07cbf680758e50346"
+	},
+	"name": "Pulp Fiction",
+	"year": "1994",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Quentin Tarantino"
+}
+{
+	"_id": {
+		"$oid": "5c5844fc7cbf681f1c9903e9"
+	},
+	"name": "Forrest Gump",
+	"year": "1994",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+	"director": "Robert Zemeckis"
+}
+{
+	"_id": {
+		"$oid": "5c5845197cbf68265cf41b4e"
+	},
+	"name": "Sleepless in Seattle",
+	"year": "1993",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNWY1MDJkZGUtZTE2OS00ODZiLTlmNzQtMDZjNzM2ZjkwM2QxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+	"director": "Nora Ephron"
+}
+{
+	"_id": {
+		"$oid": "5c5845397cbf680d1c0dfb33"
+	},
+	"name": "Notting Hill",
+	"year": "1999",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTkwYzYtNDhlNC00MzljLTk1YTktY2IxZjliZmNjMjUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+	"director": "Roger Michell"
+}
+{
+	"_id": {
+		"$oid": "5c5845807cbf6820d0de3852"
+	},
+	"name": "Inception",
+	"year": "2010",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+	"director": "Christopher Nolan"
+}
+{
+	"_id": {
+		"$oid": "5c5845957cbf681b6ccef5b5"
+	},
+	"name": "The Prestige",
+	"year": "2006",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+	"director": "Christopher Nolan"
+}
+{
+	"_id": {
+		"$oid": "5c5845bd7cbf681b244f5197"
+	},
+	"name": "Goodfellas",
+	"year": "1990",
+	"poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Martin Scorsese"
+}
+{
+	"_id": {
+		"$oid": "5c5845d67cbf68082467460d"
+	},
+	"name": "Interstellar",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+	"director": "Christopher Nolan"
+}
+{
+	"_id": {
+		"$oid": "5c5845fa7cbf68274c51f858"
+	},
+	"name": "La La Land",
+	"year": "2016",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
+	"director": "Damien Chazelle"
+}
+{
+	"_id": {
+		"$oid": "5c58461c7cbf6812a84993ce"
+	},
+	"name": "Django Unchained",
+	"year": "2012",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+	"director": "Quentin Tarantino"
+}
+{
+	"_id": {
+		"$oid": "5c5846467cbf680e58715074"
+	},
+	"name": "Whiplash",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+	"director": "Damien Chazelle"
+}
+{
+	"_id": {
+		"$oid": "5c58465b7cbf68258cb00cbc"
+	},
+	"name": "The Help",
+	"year": "2011",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX300.jpg",
+	"director": "Tate Taylor"
+}
+{
+	"_id": {
+		"$oid": "5c5846937cbf681b5c6da218"
+	},
+	"name": "American Beauty",
+	"year": "1999",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+	"director": "Sam Mendes"
+}
+{
+	"_id": {
+		"$oid": "5c5846b37cbf68202ccd8b04"
+	},
+	"name": "Vertigo",
+	"year": "1958",
+	"poster": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+	"director": "Alfred Hitchcock"
+}
+{
+	"_id": {
+		"$oid": "5c5846d57cbf681ae84bf584"
+	},
+	"name": "M",
+	"year": "1931",
+	"poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg",
+	"director": "Fritz Lang"
+}
+{
+	"_id": {
+		"$oid": "5c5846fb7cbf68219091eb4f"
+	},
+	"name": "Gladiator",
+	"year": "2000",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+	"director": "Ridley Scott"
+}
+{
+	"_id": {
+		"$oid": "5c5847137cbf6826ac6855d9"
+	},
+	"name": "Spartacus",
+	"year": "2010–2013",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOTA2NDU2MzM5Nl5BMl5BanBnXkFtZTcwMTk3Njg3OA@@._V1_SX300.jpg",
+	"director": "N/A"
+}
+{
+	"_id": {
+		"$oid": "5c5847277cbf680660e3983f"
+	},
+	"name": "Troy",
+	"year": "2004",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SX300.jpg",
+	"director": "Wolfgang Petersen"
+}
+{
+	"_id": {
+		"$oid": "5c58475c7cbf68246cd03f3c"
+	},
+	"name": "Jackie",
+	"year": "2016",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMzg4MjYzNjk5N15BMl5BanBnXkFtZTgwODgwODI3MDI@._V1_SX300.jpg",
+	"director": "Pablo Larraín"
+}
+{
+	"_id": {
+		"$oid": "5c5847847cbf681b6c0d08ba"
+	},
+	"name": "Memento",
+	"year": "2000",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+	"director": "Christopher Nolan"
+}
+{
+	"_id": {
+		"$oid": "5c58479a7cbf680230a4ccea"
+	},
+	"name": "Coco",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
+	"director": "Lee Unkrich, Adrian Molina(co-director)"
+}
+{
+	"_id": {
+		"$oid": "5c5847ba7cbf681ee44861c1"
+	},
+	"name": "Up",
+	"year": "2009",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg",
+	"director": "Pete Docter, Bob Peterson(co-director)"
+}
+{
+	"_id": {
+		"$oid": "5c5847cc7cbf6823488da957"
+	},
+	"name": "It",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg",
+	"director": "Andy Muschietti"
+}
+{
+	"_id": {
+		"$oid": "5c5847f37cbf681788f27d10"
+	},
+	"name": "Taxi Driver",
+	"year": "1976",
+	"poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Martin Scorsese"
+}
+{
+	"_id": {
+		"$oid": "5c58480c7cbf68244c162f73"
+	},
+	"name": "The Martian",
+	"year": "2015",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+	"director": "Ridley Scott"
+}
+{
+	"_id": {
+		"$oid": "5c5848277cbf68194891d8d5"
+	},
+	"name": "Good Will Hunting",
+	"year": "1997",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+	"director": "Gus Van Sant"
+}
+{
+	"_id": {
+		"$oid": "5c5848617cbf68202c482389"
+	},
+	"name": "Andhadhun",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_SX300.jpg",
+	"director": "Sriram Raghavan"
+}
+{
+	"_id": {
+		"$oid": "5c58487f7cbf680fa80f7bf0"
+	},
+	"name": "Die Hard",
+	"year": "1988",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "John McTiernan"
+}
+{
+	"_id": {
+		"$oid": "5c58490c7cbf68036cdc47d5"
+	},
+	"name": "Heat",
+	"year": "1995",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNDc0YTQ5NGEtM2NkYS00MWRhLThiNzAtNmY3NWU3YzNkMjIyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Michael Mann"
+}
+{
+	"_id": {
+		"$oid": "5c58491f7cbf68248c256696"
+	},
+	"name": "Ikiru",
+	"year": "1952",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTliYThjNGEtYTRiMy00MWMzLTgyNzEtYTU3NTU3M2YwMTNjXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg",
+	"director": "Akira Kurosawa"
+}
+{
+	"_id": {
+		"$oid": "5c58493a7cbf6826c45f1590"
+	},
+	"name": "Ran",
+	"year": "1985",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+	"director": "Akira Kurosawa"
+}
+{
+	"_id": {
+		"$oid": "5c58494e7cbf6807007303ba"
+	},
+	"name": "Chinatown",
+	"year": "1974",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+	"director": "Roman Polanski"
+}
+{
+	"_id": {
+		"$oid": "5c584a507cbf681f8c4bc499"
+	},
+	"name": "A Beautiful Mind",
+	"year": "2001",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+	"director": "Ron Howard"
+}
+{
+	"_id": {
+		"$oid": "5c584a787cbf6824f0d1a864"
+	},
+	"name": "Anbe Sivam",
+	"year": "2003",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNWQxY2MyNmUtOTkxZC00MmQ3LWFkMjMtNWU3YmFlZDM5YTBhXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+	"director": "Sundar C."
+}
+{
+	"_id": {
+		"$oid": "5c584ad67cbf6818f8d44263"
+	},
+	"name": "Gandhi",
+	"year": "1982",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+	"director": "Richard Attenborough"
+}
+{
+	"_id": {
+		"$oid": "5c584b007cbf6822b03c0eb2"
+	},
+	"name": "Drishyam",
+	"year": "2015",
+	"poster": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+	"director": "Nishikant Kamat"
+}
+{
+	"_id": {
+		"$oid": "5c584b237cbf68075821b9d8"
+	},
+	"name": "PK",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_SX300.jpg",
+	"director": "Rajkumar Hirani"
+}
+{
+	"_id": {
+		"$oid": "5c584ebe7cbf682884f45971"
+	},
+	"name": "Bohemian Rhapsody",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNDg2NjIxMDUyNF5BMl5BanBnXkFtZTgwMzEzNTE1NTM@._V1_SX300.jpg",
+	"director": "Bryan Singer"
+}
+{
+	"_id": {
+		"$oid": "5c584f277cbf682580d78192"
+	},
+	"name": "Vice",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_SX300.jpg",
+	"director": "Adam McKay"
+}
+{
+	"_id": {
+		"$oid": "5c584f447cbf680f481ee9f3"
+	},
+	"name": "Birdman",
+	"year": "1967–1969",
+	"poster": "https://ia.media-imdb.com/images/M/MV5BZTk3NjA1M2EtYTQ2Ny00ZTlmLThjMTQtYzhiY2I1ODM0MzdlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+	"director": "N/A"
+}
+{
+	"_id": {
+		"$oid": "5c584f687cbf6814541e06cc"
+	},
+	"name": "Ferdinand",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOTIwMDI0NjQ4OF5BMl5BanBnXkFtZTgwNjU0MzAyNDM@._V1_SX300.jpg",
+	"director": "Carlos Saldanha"
+}
+{
+	"_id": {
+		"$oid": "5c584f947cbf682734ae03e2"
+	},
+	"name": "A Quiet Place",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg",
+	"director": "John Krasinski"
+}
+{
+	"_id": {
+		"$oid": "5c58508b7cbf681ec4a45b46"
+	},
+	"name": "Black Panther",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
+	"director": "Ryan Coogler"
+}
+{
+	"_id": {
+		"$oid": "5c58513e7cbf68076886e3de"
+	},
+	"name": "Tag",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNzk4NDM3NjkwNF5BMl5BanBnXkFtZTgwNTk5MzkzNTM@._V1_SX300.jpg",
+	"director": "Jeff Tomsic"
+}
+{
+	"_id": {
+		"$oid": "5c5851547cbf680f74c8ea04"
+	},
+	"name": "Rent",
+	"year": "2005",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOTNmZWI2NzItNmNmMC00ZGY2LWE4ZTAtNjMxZTJiZWUwMzAyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+	"director": "Chris Columbus"
+}
+{
+	"_id": {
+		"$oid": "5c5851997cbf682728910102"
+	},
+	"name": "After",
+	"year": "2012",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOTQ3NDA5MjE2Nl5BMl5BanBnXkFtZTcwMDQwODY0OA@@._V1_SX300.jpg",
+	"director": "Ryan Smith"
+}
+{
+	"_id": {
+		"$oid": "5c5851bb7cbf6819903531f3"
+	},
+	"name": "Disobedience",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMzYxNDI5OTcwMV5BMl5BanBnXkFtZTgwODc4MzE3NDM@._V1_SX300.jpg",
+	"director": "Sebastián Lelio"
+}
+{
+	"_id": {
+		"$oid": "5c5852437cbf6811f8331b06"
+	},
+	"name": "Destroyer",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BODI4MTI2OTAyMV5BMl5BanBnXkFtZTgwNjY3NDY1NjM@._V1_SX300.jpg",
+	"director": "Karyn Kusama"
+}
+{
+	"_id": {
+		"$oid": "5c58534d7cbf680a401be81c"
+	},
+	"name": "Columbus",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BNTliZmExNmItZDJhZS00MjBjLThiMmEtZTJhZjNlMTMwYzk3XkEyXkFqcGdeQXVyMzI3NjY2ODc@._V1_SX300.jpg",
+	"director": "Kogonada"
+}
+{
+	"_id": {
+		"$oid": "5c58536a7cbf6814947ff8ef"
+	},
+	"name": "Bright Star",
+	"year": "2009",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNDgxNF5BMl5BanBnXkFtZTcwMjkyOTM3Mg@@._V1_SX300.jpg",
+	"director": "Jane Campion"
+}
+{
+	"_id": {
+		"$oid": "5c58570f7cbf682a1408910a"
+	},
+	"name": "Aviator",
+	"year": "2016",
+	"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQwYzNhYjYtZGY2YS00ZmE5LWFmMjktMzdlZjRhODIzMzFiXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_SX300.jpg",
+	"director": "William S. Goldstein, Alberto Marenco"
+}
+{
+	"_id": {
+		"$oid": "5c58574b7cbf6823d8e45c2c"
+	},
+	"name": "Avatar",
+	"year": "2009",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+	"director": "James Cameron"
+}
+{
+	"_id": {
+		"$oid": "5c5857a87cbf6828e82be9ed"
+	},
+	"name": "Thor",
+	"year": "2011",
+	"poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+	"director": "Kenneth Branagh"
+}
+{
+	"_id": {
+		"$oid": "5c5857bb7cbf680588f13002"
+	},
+	"name": "Sin",
+	"year": "2003",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTIyMDQwMTUzNl5BMl5BanBnXkFtZTcwMjk2MDUyMQ@@._V1_SX300.jpg",
+	"director": "Michael Stevens"
+}
+{
+	"_id": {
+		"$oid": "5c5857d27cbf680c40a6e869"
+	},
+	"name": "Superman",
+	"year": "1978",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+	"director": "Richard Donner"
+}
+{
+	"_id": {
+		"$oid": "5c5858177cbf68277cc157db"
+	},
+	"name": "Titans",
+	"year": "2018–",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDc4Mjc4N15BMl5BanBnXkFtZTgwNjcyNTM0NjM@._V1_SX300.jpg",
+	"director": "N/A"
+}
+{
+	"_id": {
+		"$oid": "5c5858317cbf6808fcf606d1"
+	},
+	"name": "Lucy",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg",
+	"director": "Luc Besson"
+}
+{
+	"_id": {
+		"$oid": "5c5858467cbf681858091408"
+	},
+	"name": "Hamlet",
+	"year": "1996",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTM4NzMxOF5BMl5BanBnXkFtZTcwMDY1OTM2MQ@@._V1_SX300.jpg",
+	"director": "Kenneth Branagh"
+}
+{
+	"_id": {
+		"$oid": "5c5858d07cbf680a8c240928"
+	},
+	"name": "Adrift",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_SX300.jpg",
+	"director": "Baltasar Kormákur"
+}
+{
+	"_id": {
+		"$oid": "5c5858e67cbf681e30d9c64f"
+	},
+	"name": "Thelma",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjk0NjI2MjM1NF5BMl5BanBnXkFtZTgwODc2NjU0MzI@._V1_SX300.jpg",
+	"director": "Joachim Trier"
+}
+{
+	"_id": {
+		"$oid": "5c585b077cbf680818a9c291"
+	},
+	"name": "Chicago",
+	"year": "2002",
+	"poster": "https://m.media-amazon.com/images/M/MV5BN2E3NDU1ZTktNzZjNy00MWU3LWI4YmMtMjdjNTIzMDU0MDdiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+	"director": "Rob Marshall"
+}
+{
+	"_id": {
+		"$oid": "5c585b757cbf6827ece9fa06"
+	},
+	"name": "Paterson",
+	"year": "2016",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_SX300.jpg",
+	"director": "Jim Jarmusch"
+}
+{
+	"_id": {
+		"$oid": "5c585b967cbf68248c3ada86"
+	},
+	"name": "Loving Vincent",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SX300.jpg",
+	"director": "Dorota Kobiela, Hugh Welchman"
+}
+{
+	"_id": {
+		"$oid": "5c585baf7cbf6814e428292f"
+	},
+	"name": "Finding Fanny",
+	"year": "2014",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMjE1Nzk2Mjk2OF5BMl5BanBnXkFtZTgwMTE5NTYxMjE@._V1_SX300.jpg",
+	"director": "Homi Adajania"
+}
+{
+	"_id": {
+		"$oid": "5c585bf87cbf6829c43ca331"
+	},
+	"name": "Mimicry",
+	"year": "2018",
+	"poster": "https://m.media-amazon.com/images/M/MV5BZDZhN2IyYWYtZGU3ZS00NWI3LTlmZTUtMzIxMmY0ZmUxODg3XkEyXkFqcGdeQXVyMjk0OTQ5MjE@._V1_SX300.jpg",
+	"director": "Jennifer von Schuckmann"
+}
+{
+	"_id": {
+		"$oid": "5c585c2c7cbf680d982dbf15"
+	},
+	"name": "Breathe",
+	"year": "2017",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTg1OTcxNjU1MV5BMl5BanBnXkFtZTgwMzcwMTQ3MzI@._V1_SX300.jpg",
+	"director": "Andy Serkis"
+}
+{
+	"_id": {
+		"$oid": "5c585cb37cbf682180f41a78"
+	},
+	"name": "Closer",
+	"year": "2004",
+	"poster": "https://m.media-amazon.com/images/M/MV5BN2I0Y2JmZjQtNjEyOC00ODhkLWE5YWUtOWFkOGQwMGYyODRiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+	"director": "Mike Nichols"
+}
+{
+	"_id": {
+		"$oid": "5c585cc77cbf681ae84c3cdf"
+	},
+	"name": "The Holiday",
+	"year": "2006",
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTI1MDk4MzA2OF5BMl5BanBnXkFtZTYwMjQ3NDc3._V1_SX300.jpg",
+	"director": "Nancy Meyers"
+}
+{
+	"_id": {
+		"$oid": "5c585cdb7cbf680930f662a5"
+	},
+	"name": "The Revenant",
+	"year": "2015",
+	"poster": "https://m.media-amazon.com/images/M/MV5BY2FmODc2N2QtYmY3MS00YTMwLWI2NGYtZWRmYWVkNjFjZmI0XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_SX300.jpg",
+	"director": "Alejandro G. Iñárritu"
+}
+{
+	"_id": {
+		"$oid": "5c585d287cbf68143c9567ef"
+	},
+	"name": "Ocean Girl",
+	"year": "1994–1997",
+	"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNDAxNzA0MTheQTJeQWpwZ15BbWU3MDU1MDkyNDE@._V1_SX300.jpg",
+	"director": "N/A"
+}
